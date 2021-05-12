@@ -11,3 +11,5 @@ We don't assume that we'll be able to source all of the machines we'd like to, s
 # Folder structure
 
 For now, we'll do something like the following. If something else becomes apparent to be advantagious then we'll restructure. Don't fret to much about it okay?
+
+![folderstructure](https://user-images.githubusercontent.com/3619/117965623-fe1ada80-b2f0-11eb-993b-2bd3c303e5a4.png)
