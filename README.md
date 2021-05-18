@@ -1,8 +1,14 @@
-# Repository primaily for pinouts signals of retro computer.
+# Repository primaily for pinouts signals of retro computers.
 
 This is definitely a work in progress. We hope to create a simple repository of pinout signals for each of the IC pins on retro computers. Focused initially on Commodore 8 bit.
 
 These are very unofficial and should be used for study and education only. If your computer bursts into flames, don't blame our screenshots.
+
+# How we're gathering the data
+
+These are from reasonably running (for 40 year old computers) examples without any known flaws and nothing connected to them or running. We turn them on, let them "boot" and pin them out. The signals will not be perfect on any of them, and they will certainly vary in quality from machine to machine. 
+
+We've tried to screen capture enough data on the screen to give an idea of the scale and some basic metrics.
 
 # Contributing
 
