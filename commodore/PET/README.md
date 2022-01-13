@@ -6,22 +6,22 @@ There were four major revisions to the Commodore PET board:
 
 1. The original 2001 series - circa 1977/1978 - Max RAM 8K
 
-                 IEEE user tape #2  
-          +------####-####--##-+    
-          !                    #    
-          !                    #    
-          !                    # exp
-          !                    # bus
-          !                    #    
-          !                    #    
-          !                    !    
-          !       (2k) ROMS    !    
-          !      F F E D D C C !    
-          !      8 0 0 8 0 8 0 !    
-          !                    !    
-     tape #       RAM MEMORY   !    
-      #1  #                    !    
-          +--------------------+    
+    *              IEEE user tape #2  
+    *       +------####-####--##-+    
+    *       !                    #    
+    *       !                    #    
+    *       !                    # exp
+    *       !                    # bus
+    *       !                    #    
+    *       !                    #    
+    *       !                    !    
+    *       !       (2k) ROMS    !    
+    *       !      F F E D D C C !    
+    *       !      8 0 0 8 0 8 0 !    
+    *       !                    !    
+    *  tape #       RAM MEMORY   !    
+    *   #1  #                    !    
+    *        +--------------------+    
 
 2. 2001N, 3000 & 4000 series  (9" CRT) - circa 1979/80 - Max RAM - 32K
 
