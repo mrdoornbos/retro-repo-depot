@@ -1,6 +1,6 @@
 # The Commodore PET Series
 
-The PET line was Commodore's first computer line after purchasing MOS Technologies, the primary design of the computer (as well as its microprocessor, the 6502) was by Chuck Peddle.  The line was labeled in series' the original 2001 series, the 3000 series (which was the European designation of the 2000 series), the modern 4000 and 8000 series, and the final single unit 9000 series which is the SuperPET.
+The PET line was Commodore's first computer line after purchasing MOS Technologies, and the primary design of the computer (as well as its microprocessor, the 6502) was by Chuck Peddle. The line was labeled in series: the original 2001 series, the 3000 series (which was the European designation of the 2000 series), the modern 4000 and 8000 series, and the final single unit 9000 series which is the SuperPET.
 
 There were four major revisions to the Commodore PET board:
 
