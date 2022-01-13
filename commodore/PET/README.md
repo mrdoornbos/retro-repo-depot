@@ -5,7 +5,7 @@ The PET line was Commodore's first computer line after purchasing MOS Technologi
 There were four major revisions to the Commodore PET board:
 
 1. The original 2001 series - circa 1977/1978 - Max RAM 8K
-`
+
                   IEEE user tape #2  
            +------####-####--##-+    
            !                    #    
@@ -19,10 +19,10 @@ There were four major revisions to the Commodore PET board:
            !      F F E D D C C !    
            !      8 0 0 8 0 8 0 !    
            !                    !    
-      tape #       RAM MEMORY   !    
-       #1  #                    !    
-            +--------------------+    
-`
+           # tape  RAM MEMORY   !    
+           #  #1                !    
+           +--------------------+    
+
 2. 2001N, 3000 & 4000 series  (9" CRT) - circa 1979/80 - Max RAM - 32K
 
                  IEEE user tape #1
@@ -38,8 +38,8 @@ There were four major revisions to the Commodore PET board:
           !                    !
           !                    !
           !                    !
-     tape #      RAM MEMORY    !
-      #2  #                    !
+          # tape  RAM MEMORY   !
+          #  #2                !
           +--------------------+
 
 3. 4000/8000 series (12" CRT) - circa 1981 - Max RAM 32K (daughterboard expansion to 96K)
@@ -63,24 +63,23 @@ There were four major revisions to the Commodore PET board:
 
 4. 8296 (12" CRT) - circa 1983 - RAM 96K
 
-     8296 series (12" CRT)
-                IEEE user tape #1
-         +------####-####--##-+
-         !                  # # tape
-         !  P s             # #  #2
-         !  w p             # !
-         !  r l              #!
-         !                   #!
-         !                   #!
-         !  M M               !
-         !  E E               !
-         !  M M               !
-         !  O O               !
-         !  R R               !
-         !  Y Y               !
-         !           spkr     !
-         +----------------###-+
-                         keyboard
+	      IEEE user tape #1
+	 +------####-####--##-+
+	 !                  # # tape
+	 !  P s             # #  #2
+	 !  w p             # !
+	 !  r l              #!
+	 !                   #!
+	 !                   #!
+	 !  M M               !
+	 !  E E               !
+	 !  M M               !
+	 !  O O               !
+	 !  R R               !
+	 !  Y Y               !
+	 !           spkr     !
+	 +----------------###-+
+	               keyboard
 
 Note: The SuperPET (9000 series) is a set of add-on boards for the 8032.
 
