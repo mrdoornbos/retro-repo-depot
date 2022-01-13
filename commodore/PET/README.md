@@ -63,23 +63,23 @@ There were four major revisions to the Commodore PET board:
 
 4. 8296 (12" CRT) - circa 1983 - RAM 96K
 
-	     IEEE user tape #1
-	  +------####-####--##-+
-	  !                  # # tape
-	  !  P s             # #  #2
-	  !  w p             # !
-	  !  r l              #!
-	  !                   #!
-	  !                   #!
-	  !  M M               !
-	  !  E E               !
-	  !  M M               !
-	  !  O O               !
-	  !  R R               !
-	  !  Y Y               !
-	  !           spkr     !
-	  +----------------###-+
-	                keyboard
+                IEEE user tape #1
+         +------####-####--##-+
+         !                  # # tape
+         !  P s             # #  #2
+         !  w p             # !
+         !  r l              #!
+         !                   #!
+         !                   #!
+         !  M M               !
+         !  E E               !
+         !  M M               !
+         !  O O               !
+         !  R R               !
+         !  Y Y               !
+         !          spkr  kbd !
+         +----------------###-+
+
 
 Note: The SuperPET (9000 series) is a set of add-on boards for the 8032.
 
